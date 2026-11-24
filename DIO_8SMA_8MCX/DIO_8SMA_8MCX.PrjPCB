@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=EEM
+CurrentVariant=DIOT
 
 [Preferences]
 PrefsVaultGUID=
@@ -221,23 +221,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XDLJFZMU
 
 [Document11]
-DocumentPath=DIOT_Template.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
 DocumentPath=DIO_8SMA_8MCX.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=SCH\DIOT_signal_routing.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=SCH\Temperature_monitoring.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=SCH\I2C_switch.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,75 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
-DocumentPath=FPGA_Bank2-3.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
-DocumentPath=FPGA_Config.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=SCH\FPGA_Config.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
-DocumentPath=SCH\FPGA_Bank2-3.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
+[Document15]
 DocumentPath=DIO_8SMA_8MCX.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKQUQIGI
 
-[Document21]
+[Document16]
 DocumentPath=SCH\LEDs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,24 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCSNVNVK
 
-[Document22]
-DocumentPath=SCH\CPCIS_Connectors_P1_P6.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document23]
+[Document17]
 DocumentPath=SCH\DIO_8SMA_8MC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -441,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXWNFARM
 
-[Document24]
+[Document18]
 DocumentPath=SCH\DIOT_SMA_BASE_Split.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -458,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPDERYCG
 
-[Document25]
+[Document19]
 DocumentPath=SCH\DIOT_SMA_BASE_Split.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,7 +373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document20]
 DocumentPath=SCH\Iso_SMA_MCX_Channel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -492,7 +390,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VZDFYVBY
 
-[Document27]
+[Document21]
 DocumentPath=SCH\DIOT_SMA_EXT.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -509,7 +407,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNOTGVFS
 
-[Document28]
+[Document22]
 DocumentPath=SCH\DIOT_SMA_EXT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -526,7 +424,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document23]
 DocumentPath=SCH\DIOT_SMA_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -543,7 +441,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBSXSWIE
 
-[Document30]
+[Document24]
 DocumentPath=SCH\ISO_DC_12_DC_5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -560,7 +458,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOCCUPZR
 
-[Document31]
+[Document25]
 DocumentPath=DIO_8SMA_8MCX.PrjPCBVariants
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -577,7 +475,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document26]
 DocumentPath=PCB\DIO_8SMA_8MCX.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -594,12 +492,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGQCCAOV
 
+[Document27]
+DocumentPath=SCH\CPCIS_Connectors_P1_P6.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=A2FB463C-E379-4070-9A11-B2A9E4752451
 Description=EEM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=50
+VariationCount=52
 Variation1=Designator=IC12A|UniqueId=\TAKSADSN\SQLLFMMD\APOIIXAL\WGKPLYFH|Kind=1|AlternatePart=
 Variation2=Designator=IC12B|UniqueId=\TAKSADSN\SQLLFMMD\SZFHMDSA\WGKPLYFH|Kind=1|AlternatePart=
 Variation3=Designator=IC12C|UniqueId=\TAKSADSN\SQLLFMMD\ZLILIUBA\WGKPLYFH|Kind=1|AlternatePart=
@@ -610,44 +525,8 @@ Variation7=Designator=R69C|UniqueId=\TAKSADSN\SQLLFMMD\ZLILIUBA\AABOSXFK|Kind=1|
 Variation8=Designator=R69D|UniqueId=\TAKSADSN\SQLLFMMD\QKHVCFSX\AABOSXFK|Kind=1|AlternatePart=
 Variation9=Designator=T_IC3|UniqueId=\HFXIRERH\RTXDXYRA|Kind=1|AlternatePart=
 Variation10=Designator=T_IC5|UniqueId=\HFXIRERH\FDGWJAFK|Kind=1|AlternatePart=
-Variation11=Designator=T_C4|UniqueId=\HFXIRERH\WQBWDHNI|Kind=0|AlternatePart=
-Variation12=Designator=T_C6|UniqueId=\HFXIRERH\NDFIXKIP|Kind=0|AlternatePart=
-Variation13=Designator=T_J4|UniqueId=\RTXBABPE\LIDFICHD|Kind=1|AlternatePart=
-Variation14=Designator=T_J5|UniqueId=\RTXBABPE\HQYQOTEN|Kind=1|AlternatePart=
-Variation15=Designator=T_R35|UniqueId=\RTXBABPE\FAOCJAEQ\UFDRMWAP|Kind=1|AlternatePart=
-Variation16=Designator=T_R36|UniqueId=\RTXBABPE\FAOCJAEQ\BBYQRIAR|Kind=1|AlternatePart=
-Variation17=Designator=T_R37|UniqueId=\RTXBABPE\FAOCJAEQ\XODSKGYF|Kind=1|AlternatePart=
-Variation18=Designator=T_R38|UniqueId=\RTXBABPE\FAOCJAEQ\SVLOVJOA|Kind=1|AlternatePart=
-Variation19=Designator=T_R39|UniqueId=\RTXBABPE\FAOCJAEQ\BBCKDUSC|Kind=1|AlternatePart=
-Variation20=Designator=T_R40|UniqueId=\RTXBABPE\FAOCJAEQ\CSMGJJAM|Kind=1|AlternatePart=
-Variation21=Designator=T_R41|UniqueId=\RTXBABPE\FAOCJAEQ\FZSYENJE|Kind=1|AlternatePart=
-Variation22=Designator=T_R42|UniqueId=\RTXBABPE\FAOCJAEQ\YYWGNKZV|Kind=1|AlternatePart=
-Variation23=Designator=T_R43|UniqueId=\RTXBABPE\FAOCJAEQ\PBEULLFQ|Kind=1|AlternatePart=
-Variation24=Designator=T_R44|UniqueId=\RTXBABPE\FAOCJAEQ\ILFLVVPB|Kind=1|AlternatePart=
-Variation25=Designator=T_R45|UniqueId=\RTXBABPE\FAOCJAEQ\KWKDNNPY|Kind=1|AlternatePart=
-Variation26=Designator=T_R46|UniqueId=\RTXBABPE\FAOCJAEQ\HTMWYZEP|Kind=1|AlternatePart=
-Variation27=Designator=T_R47|UniqueId=\RTXBABPE\FAOCJAEQ\BOSZJSAH|Kind=1|AlternatePart=
-Variation28=Designator=T_R48|UniqueId=\RTXBABPE\FAOCJAEQ\HYLSSGRY|Kind=1|AlternatePart=
-Variation29=Designator=T_R49|UniqueId=\RTXBABPE\FAOCJAEQ\ZCLYVSSS|Kind=1|AlternatePart=
-Variation30=Designator=T_R51|UniqueId=\RTXBABPE\FAOCJAEQ\EOXUFUAF|Kind=1|AlternatePart=
-Variation31=Designator=T_R52|UniqueId=\RTXBABPE\FAOCJAEQ\RIMSAWXF|Kind=1|AlternatePart=
-Variation32=Designator=T_R53|UniqueId=\RTXBABPE\FAOCJAEQ\QHDFFZKE|Kind=1|AlternatePart=
-Variation33=Designator=T_R54|UniqueId=\RTXBABPE\FAOCJAEQ\SGGXRUSM|Kind=1|AlternatePart=
-Variation34=Designator=T_R55|UniqueId=\RTXBABPE\FAOCJAEQ\QAOKFMGX|Kind=1|AlternatePart=
-Variation35=Designator=T_R56|UniqueId=\RTXBABPE\FAOCJAEQ\ZFAOCIFB|Kind=1|AlternatePart=
-Variation36=Designator=T_R57|UniqueId=\RTXBABPE\FAOCJAEQ\MFDTDUTN|Kind=1|AlternatePart=
-Variation37=Designator=T_R58|UniqueId=\RTXBABPE\FAOCJAEQ\FCICBESS|Kind=1|AlternatePart=
-Variation38=Designator=T_R59|UniqueId=\RTXBABPE\FAOCJAEQ\QSRJXXOQ|Kind=1|AlternatePart=
-Variation39=Designator=T_R60|UniqueId=\RTXBABPE\FAOCJAEQ\GUAHVZYP|Kind=1|AlternatePart=
-Variation40=Designator=T_R61|UniqueId=\RTXBABPE\FAOCJAEQ\JXHDOWSZ|Kind=1|AlternatePart=
-Variation41=Designator=T_R62|UniqueId=\RTXBABPE\FAOCJAEQ\DYZZUGDB|Kind=1|AlternatePart=
-Variation42=Designator=T_R63|UniqueId=\RTXBABPE\FAOCJAEQ\VRQNEEPG|Kind=1|AlternatePart=
-Variation43=Designator=T_R64|UniqueId=\RTXBABPE\FAOCJAEQ\CYUDHJQD|Kind=1|AlternatePart=
-Variation44=Designator=T_R65|UniqueId=\RTXBABPE\FAOCJAEQ\BWGTVLGK|Kind=1|AlternatePart=
-Variation45=Designator=T_R50|UniqueId=\RTXBABPE\FAOCJAEQ\JAPDFCAN|Kind=1|AlternatePart=
-Variation46=Designator=T_R66|UniqueId=\RTXBABPE\FAOCJAEQ\FBDXGQAH|Kind=1|AlternatePart=
-Variation47=Designator=T_R2|UniqueId=\TAKSADSN\EZQFAHGR|Kind=1|AlternatePart=
-Variation48=Designator=T_R26|UniqueId=\YQRJPEFU\TSKLTSUH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Libraries\cernlib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=R0805_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=RESC2012X60N|AltLibLink_IsSameFootprint=True
+Variation11=Designator=T_R2|UniqueId=\TAKSADSN\EZQFAHGR|Kind=1|AlternatePart=
+Variation12=Designator=T_R26|UniqueId=\YQRJPEFU\TSKLTSUH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Libraries\cernlib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=R0805_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=RESC2012X60N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=T_R26
 ParamVariation2=ParameterName=Case|VariantValue=0805
@@ -710,8 +589,46 @@ ParamVariation30=ParameterName=Status|VariantValue=Preferred
 ParamDesignator30=T_R26
 ParamVariation31=ParameterName=Value|VariantValue=0
 ParamDesignator31=T_R26
-Variation49=Designator=T_R4|UniqueId=\TAKSADSN\PREAOSHB|Kind=1|AlternatePart=
-Variation50=Designator=L9|UniqueId=\TAKSADSN\CJOXHTZH\PCHREBDV|Kind=1|AlternatePart=
+Variation13=Designator=T_R4|UniqueId=\TAKSADSN\PREAOSHB|Kind=1|AlternatePart=
+Variation14=Designator=L9|UniqueId=\TAKSADSN\CJOXHTZH\PCHREBDV|Kind=1|AlternatePart=
+Variation15=Designator=T_R35|UniqueId=\RTXBABPE\AUVQYSCP\UFDRMWAP|Kind=1|AlternatePart=
+Variation16=Designator=T_R36|UniqueId=\RTXBABPE\AUVQYSCP\BBYQRIAR|Kind=1|AlternatePart=
+Variation17=Designator=T_R37|UniqueId=\RTXBABPE\AUVQYSCP\XODSKGYF|Kind=1|AlternatePart=
+Variation18=Designator=T_R38|UniqueId=\RTXBABPE\AUVQYSCP\SVLOVJOA|Kind=1|AlternatePart=
+Variation19=Designator=T_R39|UniqueId=\RTXBABPE\AUVQYSCP\BBCKDUSC|Kind=1|AlternatePart=
+Variation20=Designator=T_R40|UniqueId=\RTXBABPE\AUVQYSCP\CSMGJJAM|Kind=1|AlternatePart=
+Variation21=Designator=T_R41|UniqueId=\RTXBABPE\AUVQYSCP\FZSYENJE|Kind=1|AlternatePart=
+Variation22=Designator=T_R42|UniqueId=\RTXBABPE\AUVQYSCP\YYWGNKZV|Kind=1|AlternatePart=
+Variation23=Designator=T_R43|UniqueId=\RTXBABPE\AUVQYSCP\PBEULLFQ|Kind=1|AlternatePart=
+Variation24=Designator=T_R44|UniqueId=\RTXBABPE\AUVQYSCP\ILFLVVPB|Kind=1|AlternatePart=
+Variation25=Designator=T_R45|UniqueId=\RTXBABPE\AUVQYSCP\KWKDNNPY|Kind=1|AlternatePart=
+Variation26=Designator=T_R46|UniqueId=\RTXBABPE\AUVQYSCP\HTMWYZEP|Kind=1|AlternatePart=
+Variation27=Designator=T_R47|UniqueId=\RTXBABPE\AUVQYSCP\BOSZJSAH|Kind=1|AlternatePart=
+Variation28=Designator=T_R48|UniqueId=\RTXBABPE\AUVQYSCP\HYLSSGRY|Kind=1|AlternatePart=
+Variation29=Designator=T_R49|UniqueId=\RTXBABPE\AUVQYSCP\ZCLYVSSS|Kind=1|AlternatePart=
+Variation30=Designator=T_R50|UniqueId=\RTXBABPE\AUVQYSCP\JAPDFCAN|Kind=1|AlternatePart=
+Variation31=Designator=T_R51|UniqueId=\RTXBABPE\AUVQYSCP\EOXUFUAF|Kind=1|AlternatePart=
+Variation32=Designator=T_R52|UniqueId=\RTXBABPE\AUVQYSCP\RIMSAWXF|Kind=1|AlternatePart=
+Variation33=Designator=T_R53|UniqueId=\RTXBABPE\AUVQYSCP\QHDFFZKE|Kind=1|AlternatePart=
+Variation34=Designator=T_R54|UniqueId=\RTXBABPE\AUVQYSCP\SGGXRUSM|Kind=1|AlternatePart=
+Variation35=Designator=T_R55|UniqueId=\RTXBABPE\AUVQYSCP\QAOKFMGX|Kind=1|AlternatePart=
+Variation36=Designator=T_R56|UniqueId=\RTXBABPE\AUVQYSCP\ZFAOCIFB|Kind=1|AlternatePart=
+Variation37=Designator=T_R57|UniqueId=\RTXBABPE\AUVQYSCP\MFDTDUTN|Kind=1|AlternatePart=
+Variation38=Designator=T_R58|UniqueId=\RTXBABPE\AUVQYSCP\FCICBESS|Kind=1|AlternatePart=
+Variation39=Designator=T_R59|UniqueId=\RTXBABPE\AUVQYSCP\QSRJXXOQ|Kind=1|AlternatePart=
+Variation40=Designator=T_R60|UniqueId=\RTXBABPE\AUVQYSCP\GUAHVZYP|Kind=1|AlternatePart=
+Variation41=Designator=T_R61|UniqueId=\RTXBABPE\AUVQYSCP\JXHDOWSZ|Kind=1|AlternatePart=
+Variation42=Designator=T_R62|UniqueId=\RTXBABPE\AUVQYSCP\DYZZUGDB|Kind=1|AlternatePart=
+Variation43=Designator=T_R63|UniqueId=\RTXBABPE\AUVQYSCP\VRQNEEPG|Kind=1|AlternatePart=
+Variation44=Designator=T_R64|UniqueId=\RTXBABPE\AUVQYSCP\CYUDHJQD|Kind=1|AlternatePart=
+Variation45=Designator=T_R66|UniqueId=\RTXBABPE\AUVQYSCP\FBDXGQAH|Kind=1|AlternatePart=
+Variation46=Designator=T_R65|UniqueId=\RTXBABPE\AUVQYSCP\BWGTVLGK|Kind=1|AlternatePart=
+Variation47=Designator=T_J4|UniqueId=\RTXBABPE\CLDILUYY|Kind=1|AlternatePart=
+Variation48=Designator=T_J5|UniqueId=\RTXBABPE\NYERFHEA|Kind=1|AlternatePart=
+Variation49=Designator=R10|UniqueId=\KDTFUNLS\DOZLXXPZ|Kind=1|AlternatePart=
+Variation50=Designator=R11|UniqueId=\KDTFUNLS\GESNHHLB|Kind=1|AlternatePart=
+Variation51=Designator=R3|UniqueId=\USTZGWBE\EQYQKXEX|Kind=1|AlternatePart=
+Variation52=Designator=R9|UniqueId=\USTZGWBE\AWZAYSTQ|Kind=1|AlternatePart=
 ParamVariationCount=31
 
 [ProjectVariant2]
@@ -719,7 +636,7 @@ UniqueId=9B67D6B0-16CF-46F1-A082-28F39AAF0D0C
 Description=DIOT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=15
+VariationCount=17
 Variation1=Designator=IC12A|UniqueId=\TAKSADSN\SQLLFMMD\APOIIXAL\WGKPLYFH|Kind=1|AlternatePart=
 Variation2=Designator=IC12B|UniqueId=\TAKSADSN\SQLLFMMD\SZFHMDSA\WGKPLYFH|Kind=1|AlternatePart=
 Variation3=Designator=IC12C|UniqueId=\TAKSADSN\SQLLFMMD\ZLILIUBA\WGKPLYFH|Kind=1|AlternatePart=
@@ -728,18 +645,16 @@ Variation5=Designator=R69A|UniqueId=\TAKSADSN\SQLLFMMD\APOIIXAL\AABOSXFK|Kind=1|
 Variation6=Designator=R69B|UniqueId=\TAKSADSN\SQLLFMMD\SZFHMDSA\AABOSXFK|Kind=1|AlternatePart=
 Variation7=Designator=R69C|UniqueId=\TAKSADSN\SQLLFMMD\ZLILIUBA\AABOSXFK|Kind=1|AlternatePart=
 Variation8=Designator=R69D|UniqueId=\TAKSADSN\SQLLFMMD\QKHVCFSX\AABOSXFK|Kind=1|AlternatePart=
-Variation9=Designator=T_C4|UniqueId=\HFXIRERH\WQBWDHNI|Kind=0|AlternatePart=
-Variation10=Designator=T_C6|UniqueId=\HFXIRERH\NDFIXKIP|Kind=0|AlternatePart=
-Variation11=Designator=L9|UniqueId=\TAKSADSN\CJOXHTZH\PCHREBDV|Kind=1|AlternatePart=
-Variation12=Designator=T_IC3|UniqueId=\HFXIRERH\RTXDXYRA|Kind=1|AlternatePart=
-Variation13=Designator=T_IC5|UniqueId=\HFXIRERH\FDGWJAFK|Kind=1|AlternatePart=
-Variation14=Designator=T_J1|UniqueId=\HFXIRERH\AVKLCJER|Kind=1|AlternatePart=
-Variation15=Designator=T_J2|UniqueId=\HFXIRERH\EJIEBMBV|Kind=1|AlternatePart=
+Variation9=Designator=L9|UniqueId=\TAKSADSN\CJOXHTZH\PCHREBDV|Kind=1|AlternatePart=
+Variation10=Designator=T_IC3|UniqueId=\HFXIRERH\RTXDXYRA|Kind=1|AlternatePart=
+Variation11=Designator=T_IC5|UniqueId=\HFXIRERH\FDGWJAFK|Kind=1|AlternatePart=
+Variation12=Designator=T_J1|UniqueId=\HFXIRERH\AVKLCJER|Kind=1|AlternatePart=
+Variation13=Designator=T_J2|UniqueId=\HFXIRERH\EJIEBMBV|Kind=1|AlternatePart=
+Variation14=Designator=R10|UniqueId=\KDTFUNLS\DOZLXXPZ|Kind=1|AlternatePart=
+Variation15=Designator=R11|UniqueId=\KDTFUNLS\GESNHHLB|Kind=1|AlternatePart=
+Variation16=Designator=R3|UniqueId=\USTZGWBE\EQYQKXEX|Kind=1|AlternatePart=
+Variation17=Designator=R9|UniqueId=\USTZGWBE\AWZAYSTQ|Kind=1|AlternatePart=
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for DIO_8SMA_8MCX\Design Rule Check - DIO_8SMA_8MCX.html
-DItemRevisionGUID=
 
 [Parameter1]
 Name=P_copyright_owner
@@ -1320,6 +1235,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Isolated
 
 [Preferences]
 PrefsVaultGUID=
@@ -98,7 +99,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HKQUQIGI
 
 [Document4]
 DocumentPath=PCB\DIO_8SMA_8MCX_MEZZ.PcbDoc
@@ -216,18 +217,6 @@ Variation5=Designator=IC12A|UniqueId=\DTTBHZIP\FPIVEGRY\WGKPLYFH|Kind=1|Alternat
 Variation6=Designator=IC12B|UniqueId=\LAMCBMRI\FPIVEGRY\WGKPLYFH|Kind=1|AlternatePart=
 Variation7=Designator=IC12C|UniqueId=\VHVRXDLD\FPIVEGRY\WGKPLYFH|Kind=1|AlternatePart=
 Variation8=Designator=IC12D|UniqueId=\JCMRCZLR\FPIVEGRY\WGKPLYFH|Kind=1|AlternatePart=
-ParamVariationCount=0
-
-[ProjectVariant2]
-UniqueId=9B67D6B0-16CF-46F1-A082-28F39AAF0D0C
-Description=Non-isolated
-AllowFabrication=0
-ParameterCount=0
-VariationCount=4
-Variation1=Designator=IC12A|UniqueId=\DTTBHZIP\FPIVEGRY\WGKPLYFH|Kind=1|AlternatePart=
-Variation2=Designator=IC12B|UniqueId=\LAMCBMRI\FPIVEGRY\WGKPLYFH|Kind=1|AlternatePart=
-Variation3=Designator=IC12C|UniqueId=\VHVRXDLD\FPIVEGRY\WGKPLYFH|Kind=1|AlternatePart=
-Variation4=Designator=IC12D|UniqueId=\JCMRCZLR\FPIVEGRY\WGKPLYFH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
@@ -809,6 +798,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
